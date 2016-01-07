@@ -1,35 +1,46 @@
 # TKL-REVISION
+
 TKL-REVISION is a responsive design theme for Hexo.
-###Install
+
+### Install
+
 Execute the following command and modify theme in <code>_config.yml</code> to <code>TKL</code>.
-```
+
+``` 
 if u like the original version:
 git clone https://github.com/SuperKieran/TKL.git
 
 or come to my modify version:
-git clone https://github.com/yangzj1992/TKL.git
+git clone https://github.com/tangqi92/TKL-REVISION.git
 ```
+
 <!--more-->
-###Update
+
+### Update
+
 Execute the following command to update TKL.
+
 ``` 
 cd themes/TKL
 git pull
 ```
-###Config
-####Theme_config.yml
-```
+
+### Config
+
+#### Theme_config.yml
+
+``` 
 cover: /img/bg_img.jpg
 logo: /img/logo.png
 top_saying:
 - title: YOU'VE MADE A <span>BRAVE</span> DECISION, WELCOME.
 - content: 每一个不曾起舞的日子都是对生命的辜负。
 bottom_saying: 虽然还没想好写点什么，但是总觉得这里放句话比较和谐。
-  
+
 excerpt_link: Read More
-  
+
 rss: /atom.xml
-  
+
 highlightjs: vs
 
 works:
@@ -37,15 +48,15 @@ works:
   works_url: /
 - works_name: XXX2
   works_url: /
-  
+
 duoshuo: duoshuo_name
-  
+
 github: https://github.com/
 twitter: https://twitter.com/
 facebook: https://www.facebook.com/
 google:  https://google.com/
 weibo: http://weibo.com/
-  
+
 timeline:
 - num: 1
   word: 2014/06/12-Start xxx
@@ -55,16 +66,19 @@ timeline:
   word: 2015/02/18-Start ddd
 - num: 4
   word: ...
-  
+
 links:
 - name: Kieran
   link: http://go.kieran.top/
 - name: Name
   link: http://domain.com/
 ```
-####Hexo_config.yml
+
+#### Hexo_config.yml
+
 change some code to enable archives page
-```
+
+``` 
 # Archives
 ## 2: Enable pagination
 ## 1: Disable pagination
@@ -73,14 +87,21 @@ archive: 1
 category: 1
 tag: 1
 ```
-###Icon
-Seclet icon which you like in<code>\TKL\source\css\iconList.css</code>  
-![](http://kieran-hexo.qiniudn.com/hexo_14_1.png)  
-![](http://kieran-hexo.qiniudn.com/hexo_14_2.png)
-###Screen
-Show
-![](http://kieran-hexo.qiniudn.com/hexo_14_3.png)
-  
-Content
-![](http://kieran-hexo.qiniudn.com/hexo_14_4.png)
 
+### Icon
+
+Seclet icon which you like in<code>\TKL\source\css\iconList.css</code>  
+
+![](http://kieran-hexo.qiniudn.com/hexo_14_1.png)  
+
+![](http://kieran-hexo.qiniudn.com/hexo_14_2.png)
+
+### Screen
+
+Show
+
+![](http://kieran-hexo.qiniudn.com/hexo_14_3.png)
+
+Content
+
+![](http://kieran-hexo.qiniudn.com/hexo_14_4.png)
