@@ -46,7 +46,7 @@ $(document).ready(function($) {
         shift: 2,
         shadeClose: true, //开启遮罩关闭
         area: [ window_width , window_height],
-        content: '<img src="http://7bv937.com1.z0.glb.clouddn.com/qcyoung/yangzj1992QRcode.jpg" width="200px" height="200px"/>'
+        content: '<img src="http://7xikfc.com1.z0.glb.clouddn.com/wechat.JPG" width="300px" height="400px"/>'
       });
     });
 
